@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm KheZu</h1>
 <h3 align="center">A Young Passionate Programmer.</h3>
 
-<p align="left"> <a href="https://twitter.com/khezu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/khezu_dev?logo=twitter&style=for-the-badge" alt="khezu_dev" /></a> </p>
-
 - 🌱 I’m currently learning **React,Redux,TypeScript,NextJ**
 
 - 📫 How to reach me **yoopajdoto@gmail.com**
-
+<p align="left"> <a href="https://twitter.com/khezu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/khezu_dev?logo=twitter&style=for-the-badge" alt="khezu_dev" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khezu_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khezu_dev" height="30" width="40" /></a>
