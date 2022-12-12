@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yoopajdoto@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZu-Winchester)](https://github.com/KheZu-Winchester/github-readme-stats)
+![KheZu-Winchester's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZu-Winchester&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
