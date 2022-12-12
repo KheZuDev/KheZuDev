@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KheZu</h1>
 <h3 align="center">A Young Passionate Programmer.</h3>
 
-- 🌱 I’m currently learning **React,Redux,TypeScript,NextJ**
+- 🌱 I’m currently learning **React,Redux,TypeScript,NextJs**
 
 - 📫 How to reach me **yoopajdoto@gmail.com**
 <p align="left"> <a href="https://twitter.com/khezu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/khezu_dev?logo=twitter&style=for-the-badge" alt="khezu_dev" /></a> </p>
