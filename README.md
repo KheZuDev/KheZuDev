@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React,Angular,TypeScript,**
+- 🌱 I’m currently learning **React,NextJs,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KheZu-Winchester](https://github.com/KheZu-Winchester)
 
