@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/KheZuDev](https://github.com/KheZuDev)
 
 
-- 💬 Ask me about **JavaScript,React,Vue**
+- 💬 Ask me about **JavaScript,React,Vue and Angular**
 
 - 📫 How to reach me **yoopajdoto@gmail.com**
 
