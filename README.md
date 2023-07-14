@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript,React,Vue and Angular**
 
-- 📫 How to reach me **yoopajdoto@gmail.com**
+- 📫 How to reach me **sitthmueeain@gmail.com**
 
 ![AlaCrity's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZuDev&show_icons=true&theme=tokyonight)
 
