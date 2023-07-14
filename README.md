@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **React,NextJs,NodeJs,ExpressJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KheZu-Winchester](https://github.com/KheZu-Winchester)
+- 👨‍💻 All of my projects are available at [https://github.com/KheZuDev](https://github.com/KheZuDev)
 
 
 - 💬 Ask me about **JavaScript,React,Vue**
 
 - 📫 How to reach me **yoopajdoto@gmail.com**
 
-![AlaCrity's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZu-Winchester&show_icons=true&theme=tokyonight)
+![AlaCrity's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZuDev&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
