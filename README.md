@@ -11,9 +11,8 @@
 - 💬 Ask me about **JavaScript,React,Vue and Angular**
 
 - 📫 How to reach me **sitthmueeain@gmail.com**
-<--
-![AlaCrity's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZuDev&show_icons=true&theme=tokyonight)
--->
+
+[AlaCrity's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZuDev&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
