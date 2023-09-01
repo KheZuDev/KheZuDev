@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React,NextJs,NodeJs,ExpressJs**
+- 🌱 I’m currently learning **React,NextJs,NodeJs,NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KheZuDev](https://github.com/KheZuDev)
 
