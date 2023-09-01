@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KheZu</h1>
-<h3 align="center">A 21 years old frontend developer.</h3>
+<h3 align="center">A 21 years old full-stack developer.</h3>
 
 
 
