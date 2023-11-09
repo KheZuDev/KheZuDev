@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/khezu_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khezu_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sitt-hmu-eain-5a883721b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sitt-hmu-eain-5a883721b" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100072118968513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100072118968513" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100072118968513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/khezu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/khezu_dev?logo=twitter&style=for-the-badge" alt="khezu_dev" /></a> </p>
