@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm KheZu</h1>
-<h3 align="center">A 21 years old full-stack developer.</h3>
+<h3 align="center">A 22 years old full-stack developer.</h3>
 
-
-
-- 🌱 I’m currently learning **ReactJs,NextJs,NodeJs,NestJs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KheZuDev](https://github.com/KheZuDev)
-
-
-- 💬 Ask me about **JavaScript,React,Vue and Angular**
+- 💬 Ask me about **JavaScript,TypeScript,Go,Aws**
 
 - 📫 How to reach me **sitthmueeain@gmail.com**
 
