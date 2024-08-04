@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm KheZu</h1>
+  <h1 align="center">Hi 👋, I'm KheZu</h1>
 <h3 align="center">A 22 years old full-stack developer and AWS cloud enthusiast.</h3>
 
 - 💬 Ask me about **JavaScript,TypeScript,Go,Aws**
 
 - 📫 How to reach me **sitthmueeain@gmail.com**
-
-![AlaCrity's GitHub stats](https://github-readme-stats.vercel.app/api?username=KheZuDev&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
